@@ -28,8 +28,9 @@ Matplotlib, Seaborn → Data visualization
 Joblib / Pickle → Model persistence and export
 
 📂**Project Structure**
-text
+
 Disease_Predictor/
+
 │── Disease_Predictor.ipynb    # Main Jupyter Notebook
 │── requirements.txt           # List of dependencies
 │── models/                    # Trained ML models (saved here)
