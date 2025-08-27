@@ -1,4 +1,5 @@
 🩺 **Disease Predictor**
+
 📌 **Overview**
 The Disease Predictor is a machine learning project designed to predict possible diseases based on patient symptoms and health attributes. By leveraging classification algorithms, the model can analyze input data and provide disease predictions that can assist in preliminary healthcare diagnostics.
 
